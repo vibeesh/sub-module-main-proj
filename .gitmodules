@@ -1,0 +1,3 @@
+[submodule "sub-module-shared-proj"]
+	path = sub-module-shared-proj
+	url = https://github.com/vibeesh/sub-module-shared-proj.git
